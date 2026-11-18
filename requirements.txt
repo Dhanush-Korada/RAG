@@ -1,0 +1,7 @@
+streamlit>=1.49
+google-genai>=1.38
+pypdf>=6.0
+scikit-learn>=1.7
+pyttsx3>=2.99
+
+dotenv
